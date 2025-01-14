@@ -1,2 +1,2 @@
 # ansible-config-mgt
-Copy Arti
+Copy Artifact
