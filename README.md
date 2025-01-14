@@ -1,2 +1,2 @@
 # ansible-config-mgt
-Copy Artifact ya allah
+Copy Artifact ya rab
